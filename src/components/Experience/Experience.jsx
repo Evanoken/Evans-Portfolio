@@ -89,8 +89,8 @@ const Experince = () => {
               <small className="text-light">Intermediate</small>
               </div>
             </article>
-            <article className="experience__details-icon">
-              <BsPatchCheck className='experience'/>
+            <article className="experience__details">
+              <BsPatchCheck className='experience__details-icon'/>
               <div>
               <h4>Java</h4>
               <small className="text-light">Experienced</small>

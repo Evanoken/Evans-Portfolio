@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/im4.jpg'
+import ME from '../../assets/IMG8.jpg'
 import {AiOutlineFolderAdd} from 'react-icons/ai'
 
 const about = () => {
