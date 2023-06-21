@@ -3,9 +3,9 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/im3.jpg'
 import HeaderSocials from './headerSocials'
-import {useTyping} from 'use-typing-hook'
+import UseTypingEffect from 'use-typing-effect'
 const header = () => {
-  const typingText = useTyping("react and react Native developer", 200, 400)
+  const typingText = UseTypingEffect(['react', 'and', 'react Native developer'])
   return (
     <header>
       <div className="container header__container">

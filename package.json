@@ -7,11 +7,12 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
-    "react": "^18.1.0",
+    "npm": "^9.7.1",
+    "react": "^16.8.3",
     "react-dom": "^18.1.0",
     "react-icons": "^4.3.1",
     "react-scripts": "5.0.1",
-    "use-typing-hook": "^1.0.0",
+    "use-typing-effect": "^1.1.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
