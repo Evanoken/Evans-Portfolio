@@ -24,8 +24,8 @@ const about = () => {
             </article>
           </div>
           <p>I am Evans Ngugi, a student at Kirinyaga University pursuing Bachelor of Science in Computer Science.
-            Am a developer in react and together with other libraries 
-            of javascript. am also an intermediate programmer in java and C++ 
+            Am a developer in react, angular, nodeJs and together with other libraries 
+            of javascript. am also work well with Python including Django, C, C++, java and Laravel. 
             </p>
             <a href="#contacts" className='btn btn-primary'>Lets talk</a>
         </div> 
