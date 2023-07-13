@@ -20,7 +20,7 @@ const about = () => {
             <article className="about__card">
               <AiOutlineFolderAdd className='about__icon'/>
               <h5>projects</h5>
-              <small>My portfolio and other react projects</small>
+              <small>My portfolio and other more than 40 projects in my github url above</small>
             </article>
           </div>
           <p>I am Evans Ngugi, a student at Kirinyaga University pursuing Bachelor of Science in Computer Science.
